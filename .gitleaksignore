@@ -1,0 +1,7 @@
+# Fake secrets used as detector test fixtures
+Tools/RulesTest/main.swift:generic-api-key:45
+Tools/RulesTest/main.swift:npm-access-token:53
+Tools/RulesTest/main.swift:stripe-access-token:51
+Tools/SelfTest/main.swift:generic-api-key:16
+Tools/SelfTest/main.swift:generic-api-key:21
+Tools/SelfTest/main.swift:generic-api-key:22
